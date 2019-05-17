@@ -2,4 +2,5 @@
     name: Github Wiki Sidebar
     description: Generates a nested sidebar automatically from pages
     entry: github-wiki-sidebar --silent
+    require_serial: true
     language: node 
