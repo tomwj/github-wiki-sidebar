@@ -1,5 +1,5 @@
 -   id: github-wiki-sidebar
     name: Github Wiki Sidebar
     description: Generates a nested sidebar automatically from pages
-    entry: github-wiki-sidebar
+    entry: github-wiki-sidebar --silent
     language: node 
