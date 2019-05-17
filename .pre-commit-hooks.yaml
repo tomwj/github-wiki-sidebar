@@ -3,4 +3,5 @@
     description: Generates a nested sidebar automatically from pages
     entry: github-wiki-sidebar --silent
     require_serial: true
+    always_run: true
     language: node 
